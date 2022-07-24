@@ -4,6 +4,9 @@
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=acloudtwei&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
+![Dong Yuanwai's GitHub stats](https://github-readme-stats.vercel.app/api?username=acloudtwei&show_icons=true)
+
+
 # 重点说明❗
 
 目前网易云很多人的音乐人已经被封了，我的音乐人今天也发现安全问题直接封掉音乐人。注意只是封音乐人，意思是你的账号还是能用，兑换的黑胶会员也还在，只是你的
