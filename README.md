@@ -1,11 +1,14 @@
 # 网易云音乐自动任务(最新cookie版)
 
-<div align="center">  
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=acloudtwei&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-
 ![Dong Yuanwai's GitHub stats](https://github-readme-stats.vercel.app/api?username=acloudtwei&show_icons=true)
 
+<img src="https://img.shields.io/badge/gitHub-%E6%AD%A3%E5%9C%A8%E5%8A%AA%E5%8A%9B%E5%8F%98%E5%BE%97%E6%9B%B4%E5%BC%BA%EF%BC%81-brightgreen" />
+
+<div align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=acloudtwei&show_icons=true&theme=radical&hide=contribs,prs" />
+</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acloudtwei)
 
 # 重点说明❗
 
